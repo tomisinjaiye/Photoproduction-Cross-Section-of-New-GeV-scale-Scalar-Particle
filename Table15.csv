@@ -1,0 +1,18 @@
+#: table_doi: 10.17182/hepdata.44043.v1/t15
+#: name: Table 15
+#: description: Cross section for exclusive photoproduction of RHO0 as a function of W for different Q**2 values.
+
+#: data_file: Table15.yaml
+#: keyword reactions: GAMMA P --> RHO0 P | GAMMA* P --> RHO0 P
+#: keyword observables: SIG
+#: keyword phrases: Exclusive | Integrated Cross Section | Cross Section | Photoproduction
+#: keyword cmenergies: 0.0
+#: Q**2 [GeV^2],19.7
+#: RE,GAMMA* P --> RHO0 P
+#: SQRT(S) [GeV],0.0
+M(P=1_2) [GEV],SIG [NB],stat +,stat -,sys +,sys -
+60.0,7.2,1.6,-1.6,0.6,-0.6
+80.0,10.4,2.3,-2.3,0.7,-1.0
+100.0,9.4,2.4,-2.4,1.0,-0.7
+120.0,14.9,3.2,-3.2,1.1,-1.1
+

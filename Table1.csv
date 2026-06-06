@@ -1,0 +1,144 @@
+#: table_doi: 10.17182/hepdata.44043.v1/t1
+#: name: Table 1
+#: description: Average values of the spin density matrix elements measured for the 1996 data sample.
+
+#: data_file: Table1.yaml
+#: keyword reactions: E+ P --> E+ RHO0 P
+#: keyword observables: POL.RHO
+#: keyword phrases: Exclusive | Polarization | Electron production
+#: keyword cmenergies: 40.0-100.0
+#: E(P=1) [GeV],,,27.5
+#: E(P=2) [GeV],,,820.0
+#: Q**2 [GEV**2],,,2.5 TO 60
+#: RE,,,E+ P --> E+ RHO0 P
+#: SQRT(S) [GeV],,,40.0-100.0
+#: W [GEV],,,40 TO 100
+ABS(T) [GEV**2],ABS(T) [GEV**2] LOW,ABS(T) [GEV**2] HIGH,POL.RHO(ALPHA=04/MM=00),stat +,stat -,sys +,sys -
+0.25,0.0,0.5,0.674,0.018,-0.018,0.051,-0.036
+
+#: E(P=1) [GeV],,,27.5
+#: E(P=2) [GeV],,,820.0
+#: Q**2 [GEV**2],,,2.5 TO 60
+#: RE,,,E+ P --> E+ RHO0 P
+#: SQRT(S) [GeV],,,40.0-100.0
+#: W [GEV],,,40 TO 100
+ABS(T) [GEV**2],ABS(T) [GEV**2] LOW,ABS(T) [GEV**2] HIGH,RE(POL.RHO(ALPHA=04/MM=10)),stat +,stat -,sys +,sys -
+0.25,0.0,0.5,0.011,0.012,-0.012,0.007,-0.001
+
+#: E(P=1) [GeV],,,27.5
+#: E(P=2) [GeV],,,820.0
+#: Q**2 [GEV**2],,,2.5 TO 60
+#: RE,,,E+ P --> E+ RHO0 P
+#: SQRT(S) [GeV],,,40.0-100.0
+#: W [GEV],,,40 TO 100
+ABS(T) [GEV**2],ABS(T) [GEV**2] LOW,ABS(T) [GEV**2] HIGH,POL.RHO(ALPHA=04/MM=1-1),stat +,stat -,sys +,sys -
+0.25,0.0,0.5,-0.01,0.013,-0.013,0.004,-0.003
+
+#: E(P=1) [GeV],,,27.5
+#: E(P=2) [GeV],,,820.0
+#: Q**2 [GEV**2],,,2.5 TO 60
+#: RE,,,E+ P --> E+ RHO0 P
+#: SQRT(S) [GeV],,,40.0-100.0
+#: W [GEV],,,40 TO 100
+ABS(T) [GEV**2],ABS(T) [GEV**2] LOW,ABS(T) [GEV**2] HIGH,POL.RHO(ALPHA=1/MM=00),stat +,stat -,sys +,sys -
+0.25,0.0,0.5,-0.058,0.048,-0.048,0.013,-0.011
+
+#: E(P=1) [GeV],,,27.5
+#: E(P=2) [GeV],,,820.0
+#: Q**2 [GEV**2],,,2.5 TO 60
+#: RE,,,E+ P --> E+ RHO0 P
+#: SQRT(S) [GeV],,,40.0-100.0
+#: W [GEV],,,40 TO 100
+ABS(T) [GEV**2],ABS(T) [GEV**2] LOW,ABS(T) [GEV**2] HIGH,POL.RHO(ALPHA=1/MM=11),stat +,stat -,sys +,sys -
+0.25,0.0,0.5,0.002,0.034,-0.034,0.006,-0.006
+
+#: E(P=1) [GeV],,,27.5
+#: E(P=2) [GeV],,,820.0
+#: Q**2 [GEV**2],,,2.5 TO 60
+#: RE,,,E+ P --> E+ RHO0 P
+#: SQRT(S) [GeV],,,40.0-100.0
+#: W [GEV],,,40 TO 100
+ABS(T) [GEV**2],ABS(T) [GEV**2] LOW,ABS(T) [GEV**2] HIGH,RE(POL.RHO(ALPHA=1/MM=10)),stat +,stat -,sys +,sys -
+0.25,0.0,0.5,-0.018,0.016,-0.016,0.01,-0.014
+
+#: E(P=1) [GeV],,,27.5
+#: E(P=2) [GeV],,,820.0
+#: Q**2 [GEV**2],,,2.5 TO 60
+#: RE,,,E+ P --> E+ RHO0 P
+#: SQRT(S) [GeV],,,40.0-100.0
+#: W [GEV],,,40 TO 100
+ABS(T) [GEV**2],ABS(T) [GEV**2] LOW,ABS(T) [GEV**2] HIGH,POL.RHO(ALPHA=1/MM=1-1),stat +,stat -,sys +,sys -
+0.25,0.0,0.5,0.122,0.018,-0.018,0.004,-0.005
+
+#: E(P=1) [GeV],,,27.5
+#: E(P=2) [GeV],,,820.0
+#: Q**2 [GEV**2],,,2.5 TO 60
+#: RE,,,E+ P --> E+ RHO0 P
+#: SQRT(S) [GeV],,,40.0-100.0
+#: W [GEV],,,40 TO 100
+ABS(T) [GEV**2],ABS(T) [GEV**2] LOW,ABS(T) [GEV**2] HIGH,IM(POL.RHO(ALPHA=2/MM=10)),stat +,stat -,sys +,sys -
+0.25,0.0,0.5,0.023,0.016,-0.016,0.01,-0.009
+
+#: E(P=1) [GeV],,,27.5
+#: E(P=2) [GeV],,,820.0
+#: Q**2 [GEV**2],,,2.5 TO 60
+#: RE,,,E+ P --> E+ RHO0 P
+#: SQRT(S) [GeV],,,40.0-100.0
+#: W [GEV],,,40 TO 100
+ABS(T) [GEV**2],ABS(T) [GEV**2] LOW,ABS(T) [GEV**2] HIGH,IM(POL.RHO(ALPHA=2/MM=1-1),stat +,stat -,sys +,sys -
+0.25,0.0,0.5,-0.119,0.018,-0.018,0.01,-0.005
+
+#: E(P=1) [GeV],,,27.5
+#: E(P=2) [GeV],,,820.0
+#: Q**2 [GEV**2],,,2.5 TO 60
+#: RE,,,E+ P --> E+ RHO0 P
+#: SQRT(S) [GeV],,,40.0-100.0
+#: W [GEV],,,40 TO 100
+ABS(T) [GEV**2],ABS(T) [GEV**2] LOW,ABS(T) [GEV**2] HIGH,POL.RHO(ALPHA=5/MM=00),stat +,stat -,sys +,sys -
+0.25,0.0,0.5,0.093,0.024,-0.024,0.019,-0.01
+
+#: E(P=1) [GeV],,,27.5
+#: E(P=2) [GeV],,,820.0
+#: Q**2 [GEV**2],,,2.5 TO 60
+#: RE,,,E+ P --> E+ RHO0 P
+#: SQRT(S) [GeV],,,40.0-100.0
+#: W [GEV],,,40 TO 100
+ABS(T) [GEV**2],ABS(T) [GEV**2] LOW,ABS(T) [GEV**2] HIGH,POL.RHO(ALPHA=5/MM=11),stat +,stat -,sys +,sys -
+0.25,0.0,0.5,0.008,0.017,-0.017,0.008,-0.012
+
+#: E(P=1) [GeV],,,27.5
+#: E(P=2) [GeV],,,820.0
+#: Q**2 [GEV**2],,,2.5 TO 60
+#: RE,,,E+ P --> E+ RHO0 P
+#: SQRT(S) [GeV],,,40.0-100.0
+#: W [GEV],,,40 TO 100
+ABS(T) [GEV**2],ABS(T) [GEV**2] LOW,ABS(T) [GEV**2] HIGH,RE(POL.RHO(ALPHA=5/MM=10)),stat +,stat -,sys +,sys -
+0.25,0.0,0.5,0.146,0.008,-0.008,0.006,-0.006
+
+#: E(P=1) [GeV],,,27.5
+#: E(P=2) [GeV],,,820.0
+#: Q**2 [GEV**2],,,2.5 TO 60
+#: RE,,,E+ P --> E+ RHO0 P
+#: SQRT(S) [GeV],,,40.0-100.0
+#: W [GEV],,,40 TO 100
+ABS(T) [GEV**2],ABS(T) [GEV**2] LOW,ABS(T) [GEV**2] HIGH,POL.RHO(ALPHA=5/MM=1-1),stat +,stat -,sys +,sys -
+0.25,0.0,0.5,-0.004,0.009,-0.009,0.001,-0.003
+
+#: E(P=1) [GeV],,,27.5
+#: E(P=2) [GeV],,,820.0
+#: Q**2 [GEV**2],,,2.5 TO 60
+#: RE,,,E+ P --> E+ RHO0 P
+#: SQRT(S) [GeV],,,40.0-100.0
+#: W [GEV],,,40 TO 100
+ABS(T) [GEV**2],ABS(T) [GEV**2] LOW,ABS(T) [GEV**2] HIGH,IM(POL.RHO(ALPHA=6/MM=10)),stat +,stat -,sys +,sys -
+0.25,0.0,0.5,-0.14,0.008,-0.008,0.002,-0.004
+
+#: E(P=1) [GeV],,,27.5
+#: E(P=2) [GeV],,,820.0
+#: Q**2 [GEV**2],,,2.5 TO 60
+#: RE,,,E+ P --> E+ RHO0 P
+#: SQRT(S) [GeV],,,40.0-100.0
+#: W [GEV],,,40 TO 100
+ABS(T) [GEV**2],ABS(T) [GEV**2] LOW,ABS(T) [GEV**2] HIGH,IM(POL.RHO(ALPHA=6/MM=1-1)),stat +,stat -,sys +,sys -
+0.25,0.0,0.5,0.002,0.009,-0.009,0.003,0.0
+
